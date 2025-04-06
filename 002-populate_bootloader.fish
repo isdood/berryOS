@@ -1,4 +1,7 @@
-const std = @import("std");
+#!/usr/bin/env fish
+
+# Create bootloader file with initial Zig code
+echo 'const std = @import("std");
 
 pub fn main() void {
     // Entry point of the bootloader
@@ -28,4 +31,6 @@ fn load_kernel() void {
 fn jump_to_kernel() void {
     // TODO: Add code to jump to the kernel entry point
 }
+' > src/bootloader/bootloader.zig
 
+echo "Bootloader code has been initialized in src/bootloader/bootloader.zig"
