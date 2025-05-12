@@ -27,6 +27,7 @@ This project aims to create a custom operating system for the BlackBerry Passpor
 - Remote monitoring of battery life & CPU usage.
 - Ability to remotely secure device OR remote erasure of all device data.
 - Recieve NFC data from nearby devices & share them remotely to another device.
+- Ability to act as a remote pen-test device.
 
 ## Getting Started
 
