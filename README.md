@@ -26,7 +26,7 @@ This project aims to create a custom operating system for the BlackBerry Passpor
 - Notifications via SMS, email, etc. when an incorrect password is entered on device login - Front facing camera should take a photo & send this as well.
 - Remote monitoring of battery life & CPU usage.
 - Ability to remotely secure device OR remote erasure of all device data.
-- Recieve NFC data from nearby devices & share them remotely to another device.
+- Recieve NFC data from nearby devices & share said data remotely to another device.
 - Ability to act as a remote pen-test device.
 
 ## Getting Started
