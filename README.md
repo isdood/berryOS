@@ -22,6 +22,12 @@ This project aims to create a custom operating system for the BlackBerry Passpor
 
 - To facilitate development and testing, we will utilize/modify an available/existing mobile Linux OS (preferably Arch-based) for the display manager and desktop environment initially. Eventually, these parts will be replaced with entirely custom Zig components.
 
+## To-Do
+- Notifications via SMS, email, etc. when an incorrect password is entered on device login - Front facing camera should take a photo & send this as well.
+- Remote monitoring of battery life & CPU usage.
+- Ability to remotely secure device OR remote erasure of all device data.
+- Recieve NFC data from nearby devices & share them remotely to another device.
+
 ## Getting Started
 
 ### Prerequisites
